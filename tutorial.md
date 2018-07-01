@@ -41,3 +41,5 @@
 4.  如果不需要多语言支持，可以关闭该功能：`global.enable_internationalization = false`
 
 ## 第一个房间
+
+pull test
